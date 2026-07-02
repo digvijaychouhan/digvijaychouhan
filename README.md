@@ -1,11 +1,29 @@
 # 👋 Hi, I'm @digvijaychouhan
-I'm transitioning into Infrastructure Automation and DevOps, with a focus on Ansible, Linux, and OpenShift. I love using open-source tools to turn manual tasks into reliable, repeatable workflows. I am also enthusiastic about visualization tools such as Grafana and Kibana, and open-source security tools such as Wazuh. I'm looking to collaborate on any of the above topics or security operations implementation.
 
-🔧 Skills in Progress:
-- Ansible, Terraform
-- Linux & Shell Scripting
-- GitHub Actions
-- OpenShift (Developer Sandbox)
+I'm a cybersecurity professional focused on **Governance, Risk & Compliance (GRC)**, while building expertise in **Agentic AI** and **GRC Engineering** to automate governance, risk, and compliance workflows.
+
+I'm interested in applying AI, automation, and engineering principles to modern GRC programs—transforming manual compliance processes into scalable, intelligent systems. I also enjoy building practical tools, documenting my learning, and sharing open resources for the cybersecurity community.
+
+## 🚀 Current Focus
+
+* Governance, Risk & Compliance (GRC)
+* GRC Engineering & Automation
+* Agentic AI for Cybersecurity
+* Risk Management & Security Governance
+* Compliance Frameworks (ISO 27001, NIST CSF, SOC 2)
+* Security Operations & Identity & Access Management
+
+## 🔧 Currently Learning
+
+* AI Agents & LLM Workflows
+* Python for Security Automation
+* GRC Platforms (ServiceNow GRC, Archer)
+* Microsoft Sentinel & Splunk
+* Git & GitHub
+* Cloud Security Fundamentals
+
+🤝 I'm open to collaborating on GRC engineering projects, AI-powered compliance solutions, security automation, open-source cybersecurity tools, and educational resources for the cybersecurity community.
+
 
 📬 Let's connect:
 - [LinkedIn](https://linkedin.com/in/digvijaychouhan)
