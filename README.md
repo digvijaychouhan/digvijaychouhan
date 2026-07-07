@@ -2,7 +2,7 @@
 
 GRC & Information Security leader (18+ years) building **GRC Engineering** — using AI, automation, and code to turn manual compliance work into scalable systems.
 
-Currently: Data Security Manager, leading ISO 27001, SOC 2, HIPAA, and ISO 22301 compliance for a SaaS company. Led the ISO 27001:2013→2022 transition and run continuous compliance via Sprinto.
+Currently: Data Security Manager, leading ISO 27001, SOC 2, HIPAA, and ISO 22301 compliance for a SaaS company. Led the ISO 27001:2013→2022 transition and run continuous compliance.
 
 ## 🚀 Focus Areas
 - GRC Engineering & Compliance Automation
