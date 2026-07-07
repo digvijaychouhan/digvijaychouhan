@@ -1,35 +1,24 @@
-# 👋 Hi, I'm @digvijaychouhan
+# 👋 Hi, I'm Digvijay Chouhan
 
-I'm a cybersecurity professional focused on **Governance, Risk & Compliance (GRC)**, while building expertise in **Agentic AI** and **GRC Engineering** to automate governance, risk, and compliance workflows.
+GRC & Information Security leader (18+ years) building **GRC Engineering** — using AI, automation, and code to turn manual compliance work into scalable systems.
 
-I'm interested in applying AI, automation, and engineering principles to modern GRC programs—transforming manual compliance processes into scalable, intelligent systems. I also enjoy building practical tools, documenting my learning, and sharing open resources for the cybersecurity community.
+Currently: Data Security Manager, leading ISO 27001, SOC 2, HIPAA, and ISO 22301 compliance for a SaaS company. Led the ISO 27001:2013→2022 transition and run continuous compliance via Sprinto.
 
-## 🚀 Current Focus
+## 🚀 Focus Areas
+- GRC Engineering & Compliance Automation
+- Agentic AI applied to security & compliance workflows
+- ISO 27001, SOC 2, HIPAA, ISO 22301
+- Vendor & Third-Party Risk Management
+- Cloud Security Governance (AWS, Azure)
 
-* Governance, Risk & Compliance (GRC)
-* GRC Engineering & Automation
-* Agentic AI for Cybersecurity
-* Risk Management & Security Governance
-* Compliance Frameworks (ISO 27001, NIST CSF, SOC 2)
-* Security Operations & Identity & Access Management
+## 🔧 Exploring
+- AI agents & LLM workflows for GRC
+- Python for security/compliance automation
+- ServiceNow GRC, Archer
 
-## 🔧 Currently Learning
+## 📜 Certifications
+ISO 27001:2022 Lead Auditor — TÜV SÜD
 
-* AI Agents & LLM Workflows
-* Python for Security Automation
-* GRC Platforms (ServiceNow GRC, Archer)
-* Microsoft Sentinel & Splunk
-* Git & GitHub
-* Cloud Security Fundamentals
+🤝 Open to collaborating on GRC engineering tools, AI-powered compliance, and security automation.
 
-🤝 I'm open to collaborating on GRC engineering projects, AI-powered compliance solutions, security automation, open-source cybersecurity tools, and educational resources for the cybersecurity community.
-
-
-📬 Let's connect:
-- [LinkedIn](https://linkedin.com/in/digvijaychouhan)
-
-
-<!---
-digvijaychouhan/digvijaychouhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 [LinkedIn](https://linkedin.com/in/digvijaychouhan)
